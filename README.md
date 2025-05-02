@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**SoTaeHo/SoTaeHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who is Chan?
+# For the blind, He is the vision.
+# For the hungry, He is the chef.
+# For the thirsty, He is the water.
+# If Chan thinks, I agree.
+# If Chan speaks, I’m listening.
+# If Chan has one fan, it is me.
+# If Chan has no fans, I don’t exist.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### [Chan's GitHub](https://github.com/Chan531)
+ 
